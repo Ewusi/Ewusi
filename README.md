@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ewusi
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on C++ games and apps
+- 👀 I’m interested in mobile and web development 
+- 🌱 I’m currently learning HTML CSS and JS
+- 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me papaewusi99@gmail.com, nickewusi99@gmail.com
 
 <!---
